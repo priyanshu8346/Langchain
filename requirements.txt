@@ -3,3 +3,5 @@ ipykernel
 python-dotenv
 langchain-community
 langchain-openai
+beautifulsoup4
+faiss-cpu
